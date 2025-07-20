@@ -20,4 +20,6 @@ The project is not just useful—it’s scalable. Enhancements can include visua
 Its educational value is equally strong. For newcomers to Python and data science, this project introduces essential concepts: loading data, applying statistical functions, grouping records, and formatting output documents. It also highlights real-world problem-solving skills—turning business questions into code-based solutions.
 The PDF format chosen here ensures compatibility across platforms and ease of sharing via email, cloud storage, or physical printouts. It adds a layer of professionalism to otherwise raw data and serves as a standalone reference for meetings or decision-making processes.
 
+*OUTPUT*:
+<img width="920" height="863" alt="Image" src="https://github.com/user-attachments/assets/cb663144-3371-4c7d-8778-d9f8adba2f53" />
 
